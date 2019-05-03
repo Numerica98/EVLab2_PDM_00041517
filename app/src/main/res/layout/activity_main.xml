@@ -7,15 +7,6 @@
         tools:context=".activities.MainActivity"
         android:orientation="vertical">
 
-    <!--Fragmento de tipo estatico
-   <fragment
-       android:id="@+id/fragment_basic"
-       class="com.numerica98.laboratorio5_pdm_00041517.FragmentBasic"
-       android:layout_width="match_parent"
-       android:layout_height="match_parent"
-       tools:layout="@layout/fragment_basic"/> //Toma de referencia la vista creada del xml, este es un fragmento estatico
-   -->
-
     <fragment
         android:id="@+id/fragment_button"
         class="com.numerica98.evlab2_pdm_00041517.fragments.FragmentButtons"

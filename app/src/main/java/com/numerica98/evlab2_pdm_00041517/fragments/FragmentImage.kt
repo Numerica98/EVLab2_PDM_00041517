@@ -7,8 +7,7 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import androidx.fragment.app.Fragment
 import com.numerica98.evlab2_pdm_00041517.R
-import kotlinx.android.synthetic.main.fragment_buttons.view.*
-import kotlinx.android.synthetic.main.image_activity.view.*
+
 
 class FragmentImage: Fragment() {
 
