@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">EVLab2_PDM_00041517</string>
+    <string name="text_previous">Previous</string>
+    <string name="text_next">Next</string>
 </resources>
